@@ -1,0 +1,7 @@
+*.DS_Store
+*.pyc
+__pycache__
+websocket/node_modules
+websocket/config/
+weye_api/config/
+waye_api/main/settings.py
